@@ -18,11 +18,6 @@
 4. Open the project in Unity Editor.
 5. Explore the Maze Generator scene.
 
-### Running the Simulation(On Linux)
-1. Download the [Builds folder](/builds).
-2. Run the executable file named "build1.x86_64".
-3. Explore the maze-solving simulation.
-
 ## Features
 - *Maze Generation:* Utilizes DFS and Backtracking algorithms to create intriguing 2D mazes.
 - *Maze Solving:* An agent is implemented to solve the generated mazes.
